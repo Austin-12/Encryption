@@ -1,0 +1,42 @@
+C:\Users\austi\source\repos\Encryption\Encryption\bin\Debug\net8.0\Encryption.exe
+C:\Users\austi\source\repos\Encryption\Encryption\bin\Debug\net8.0\Encryption.deps.json
+C:\Users\austi\source\repos\Encryption\Encryption\bin\Debug\net8.0\Encryption.runtimeconfig.json
+C:\Users\austi\source\repos\Encryption\Encryption\bin\Debug\net8.0\Encryption.dll
+C:\Users\austi\source\repos\Encryption\Encryption\bin\Debug\net8.0\Encryption.pdb
+C:\Users\austi\source\repos\Encryption\Encryption\obj\Debug\net8.0\Encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austi\source\repos\Encryption\Encryption\obj\Debug\net8.0\Encryption.AssemblyInfoInputs.cache
+C:\Users\austi\source\repos\Encryption\Encryption\obj\Debug\net8.0\Encryption.AssemblyInfo.cs
+C:\Users\austi\source\repos\Encryption\Encryption\obj\Debug\net8.0\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\austi\source\repos\Encryption\Encryption\obj\Debug\net8.0\Encryption.dll
+C:\Users\austi\source\repos\Encryption\Encryption\obj\Debug\net8.0\refint\Encryption.dll
+C:\Users\austi\source\repos\Encryption\Encryption\obj\Debug\net8.0\Encryption.pdb
+C:\Users\austi\source\repos\Encryption\Encryption\obj\Debug\net8.0\Encryption.genruntimeconfig.cache
+C:\Users\austi\source\repos\Encryption\Encryption\obj\Debug\net8.0\ref\Encryption.dll
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Encryption\Encryption\bin\Debug\net8.0\Encryption.exe
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Encryption\Encryption\bin\Debug\net8.0\Encryption.deps.json
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Encryption\Encryption\bin\Debug\net8.0\Encryption.runtimeconfig.json
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Encryption\Encryption\bin\Debug\net8.0\Encryption.dll
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Encryption\Encryption\bin\Debug\net8.0\Encryption.pdb
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Encryption\Encryption\obj\Debug\net8.0\Encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Encryption\Encryption\obj\Debug\net8.0\Encryption.AssemblyInfoInputs.cache
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Encryption\Encryption\obj\Debug\net8.0\Encryption.AssemblyInfo.cs
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Encryption\Encryption\obj\Debug\net8.0\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Encryption\Encryption\obj\Debug\net8.0\Encryption.dll
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Encryption\Encryption\obj\Debug\net8.0\refint\Encryption.dll
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Encryption\Encryption\obj\Debug\net8.0\Encryption.pdb
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Encryption\Encryption\obj\Debug\net8.0\Encryption.genruntimeconfig.cache
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Encryption\Encryption\obj\Debug\net8.0\ref\Encryption.dll
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Cryptography\Encryption\Encryption\bin\Debug\net8.0\Encryption.exe
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Cryptography\Encryption\Encryption\bin\Debug\net8.0\Encryption.deps.json
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Cryptography\Encryption\Encryption\bin\Debug\net8.0\Encryption.runtimeconfig.json
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Cryptography\Encryption\Encryption\bin\Debug\net8.0\Encryption.dll
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Cryptography\Encryption\Encryption\bin\Debug\net8.0\Encryption.pdb
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Cryptography\Encryption\Encryption\obj\Debug\net8.0\Encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Cryptography\Encryption\Encryption\obj\Debug\net8.0\Encryption.AssemblyInfoInputs.cache
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Cryptography\Encryption\Encryption\obj\Debug\net8.0\Encryption.AssemblyInfo.cs
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Cryptography\Encryption\Encryption\obj\Debug\net8.0\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Cryptography\Encryption\Encryption\obj\Debug\net8.0\Encryption.dll
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Cryptography\Encryption\Encryption\obj\Debug\net8.0\refint\Encryption.dll
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Cryptography\Encryption\Encryption\obj\Debug\net8.0\Encryption.pdb
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Cryptography\Encryption\Encryption\obj\Debug\net8.0\Encryption.genruntimeconfig.cache
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\Cryptography\Encryption\Encryption\obj\Debug\net8.0\ref\Encryption.dll
