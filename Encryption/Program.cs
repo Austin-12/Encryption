@@ -27,7 +27,7 @@
  *  
  * 
  */
-class Encrypt
+class Program
 {
 
     static void Solve(int code)
