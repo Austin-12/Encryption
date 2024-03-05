@@ -15,3 +15,5 @@ What I learned:
 This was my first time using the tryParse method I can see this being very useful in the future
 for checking for correct input. I used this to add some error cases make sure the input was the correct length and correct type.
 I also never thought about extracting the individual values of an integer as well so that is something else that I learned doing this project.
+
+open entire folder in visual studio to ensure all project files are loaded
